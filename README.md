@@ -15,13 +15,13 @@ My name is <strong>Aryaman Kunwar</strong> and I am a 2nd year student pursuing 
 
 <!-- <img src="https://img.shields.io/badge/-aryaman-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: aryamankunwarr@gmail.com">
- <img src="https://img.shields.io/badge/-aryamankunwar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryamankunwarr@gmail.com"/>
+ <img src="https://img.shields.io/badge/-aryamankunwarr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryamankunwarr@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/aryaman-kunwar-26b48b1b2/">
  <img src="https://img.shields.io/badge/-aryamankunwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryaman-kunwar-26b48b1b2/"/>
 </a>
  <a href="https://twitter.com/AryamanKuwar">
- <img src="https://img.shields.io/badge/-aryamankunwar10-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aryamankunwar10"/>
+ <img src="https://img.shields.io/badge/-aryamankunwar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aryamankunwarr"/>
 </a>
 </p>
 <h2 align="center">
@@ -33,11 +33,8 @@ My name is <strong>Aryaman Kunwar</strong> and I am a 2nd year student pursuing 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
- 
-<br>
 <p align = "center">
   <img  src = "![Aryaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacBold&show_icons=true&theme=radical)>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MacBold&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MacBold&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
